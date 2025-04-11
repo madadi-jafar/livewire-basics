@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    @livewire('example')
+    @livewire('counter')
 </body>
 </html>
